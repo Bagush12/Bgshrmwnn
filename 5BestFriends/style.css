@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to right, #0078AA, #1C3879);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+
+td,
+th {
+    border: 2px solid #1C3879;
+    text-align: center;
+    padding: 10px;
+}
+
+td:hover {
+    background-color: #277BC0;
+}
+
+th:hover {
+    background-color: #277BC0;
+}
+
+.tabel {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: burlywood;
+}
+
+.tombol-back-bestie a:hover {
+    background-color: burlywood;
+}
+
+.tombol-back-bestie-css {
+    margin-top: 40px;
+}
+
+.tombol-back-bestie-css a {
+    background-color: #277BC0;
+    font-size: 20px;
+    color: black;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.tombol-back-bestie-css a:hover {
+    background-color: burlywood;
+}
+
+.ngubah {
+    background-color: burlywood;
+}
+
+.ngubah:hover {
+    background-color: #277BC0;
+}
+
+.ngapus {
+    background-color: burlywood;
+}
+
+.ngapus:hover {
+    background-color: #277BC0;
+}
